@@ -9,7 +9,7 @@ https://github.com/jerryjliu/llama_index
 教程
 https://zhuanlan.zhihu.com/p/613155165
 
-## 中科院学术专用版 ChatGPT
+## chatgpt_academic 中科院学术专用版 ChatGPT
 https://github.com/binary-husky/chatgpt_academic
 
 ## chatgpt-retrieval-plugin
